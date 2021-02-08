@@ -1,3 +1,34 @@
 body {
     background-color: lightcyan;
 }
+
+.code {
+    font-family: monospace;
+    background-color: white;
+}
+
+h1 {
+    font-family: cursive;
+    color: darkred;
+    text-align: center;
+}
+
+h2 {
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
+th {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+
+table {
+    border: 2px solid darkgoldenrod;
+    margin: auto;
+}
+
+td {
+    border-top: 1px solid black;
+}
